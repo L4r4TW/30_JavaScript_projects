@@ -1,6 +1,6 @@
 # 30 JavaScript Projects Challenge 🚀
 
-Welcome to my **30 JavaScript Projects Challenge** repository! This repository contains JavaScript projects that I am building as part of the [30 JavaScript Projects Challenge](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) provided by the awsome [GreatStack] (https://www.youtube.com/@GreatStackDev) YouTube channel. Each project is designed to improve JavaScript skills by building **fun, interactive, and real-world applications**. 💡🔥
+Welcome to my **30 JavaScript Projects Challenge** repository! This repository contains JavaScript projects that I am building as part of the [30 JavaScript Projects Challenge](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) provided by the awsome [GreatStack](https://www.youtube.com/@GreatStackDev) YouTube channel. Each project is designed to improve JavaScript skills by building **fun, interactive, and real-world applications**. 💡🔥
 
 ---
 

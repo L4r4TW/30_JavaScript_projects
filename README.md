@@ -33,11 +33,11 @@ Each project helps reinforce JavaScript skills through **practical implementatio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/30-JS-Projects.git
+   git clone https://github.com/L4r4TW/30_JavaScript_projects
    ```
 2. **Navigate to a project folder:**
    ```bash
-   cd 30-JS-Projects/Project-01
+   cd 30_JavaScript_projects/Weather_app
    ```
 3. **Open `index.html` in your browser** or use **Live Server** to run it.
 
